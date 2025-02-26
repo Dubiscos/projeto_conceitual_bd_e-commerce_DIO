@@ -25,7 +25,7 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 
 ## Respostas do Desafio
 
-![img]()
+![img](https://github.com/Dubiscos/projeto_conceitual_bd_e-commerce_DIO/blob/main/Model/Projeto%20conceitual%20e-commerce.png)
 
 - Para a entidade Cliente foram criadas duas novas entidades  ``PessoaJuridica`` e ``PessoaFisica`` contendo as informações de CNPJ e CPF.
 - No caso de Pagamento a entidade esta atribuída a outras três entidades afim de detalhar as formas de pagamento : Cartão, Boleto e Pix.
